@@ -47,19 +47,12 @@ sudo ./xray-nodomain.sh
 ```
 ------------------------------------------
 
-## :book: How To Connect
+## How To Connect
 
 1) If you are an Android user, download V2rayNG (
 https://github.com/2dust/v2rayNG)
 
-2) If you are a Windows user, download V2rayN or Netch software
-
-1)Android User කෙනෙක්නම් V2rayNG Download කරගන්න (
-https://github.com/2dust/v2rayNG)
-
-2)Windows User කෙනෙක්නම් V2rayN හො Netch Software දෙක Download කරගන්න (https://bit.ly/3jONhAl)
-
-![logo](https://telegra.ph/file/372eb568ce7a7776aa8c4.jpg)
+2) If you are a Windows user, u can download V2rayN,Netmod or Netch software.
 
 * AlterId   =   4
 
@@ -79,9 +72,8 @@ https://github.com/2dust/v2rayNG)
 
 5) sudo ./remove-xray.sh
 
-## :octocat: Credits
+## Credits
 
 1. https://github.com/teddysun - BBR autoscript
 2. Team Rezoth - Contributor
 
-☆😁 https://t.me/batrow_support 😁☆
