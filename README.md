@@ -8,23 +8,18 @@
 
 Using Xray-Script you can experience a high speed network connection / Low ping / Full stable connection ...
 
-Xray-Script එක Use කරල ඔයාට High speed Network Connection එකක් / Low ping / Full stable Connection එකක් අත්විදින්න පුලුවන් ...
-
-
 Manage Script
 
-## :heavy_exclamation_mark: Requirements
+## Requirements
 
 * Vps with Ubuntu 20.04 or Ubuntu-latest OS.
 * A UUID (Generate a UUID via V2rayN or http://uuidgenerator.net).
 * Use xray-nodomain script to connect directly from IP without using DNS.
+* Use MobaXterm for easily connect and manage.
 
-* Ubuntu 20.04 or Ubuntu-latest Os එක සහිත Vps එකක්.
-* UUID එකක් (V2rayN මගින් හෝ http://uuidgenerator.net මගින් UUID එකක් Genarate කරගන්න).
-* DNS use නොකර Ip එකෙන් direct connect කරගන්න xray-nodomain ස්ක්‍රිප්ට් එක භාවිතා කරන්න.
 
 ------------------------------------------
-## :book: Installation - Without DNS
+## Installation - Without DNS
 
 1)
 ```
