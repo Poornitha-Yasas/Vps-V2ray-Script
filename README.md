@@ -3,7 +3,7 @@
 * UPDATE 04/08/2023 
 
 
-![logo](https://blogger.googleusercontent.com/img/a/AVvXsEi_OBL8VD2w3moWuD6X_Mls6lQFo_C65fFXACkxX4mYOEstRuNvrClkAuMLO4GMOp6xQyPPORZc4dhFPRbglkrdRMqHSwtMlYDw_BU_aks-9UVSrP-vhmOFJhxHQuP5w-laAFnfY9Kf8HWbwphigaTdJLNm8IAa_t0smtUP3xVU90YqMALwIvGWR8kr)
+![logo](https://blogger.googleusercontent.com/img/a/AVvXsEhvrLPbkSIWj1t93QoPvkGIZ83vE7__Mz3mriEhTD6hS5rriveU6K64OQdQuILOWrn677HNMPlwMFee1MitSP1qZAtCtROh90q9kdDugunCZivAIiZ0QEkiyeUx1cO4KwNttnQua7eJJ_Tl21rHC0tptykJwFvJdbFzU0mA5rCb2xItITLfpM68kc8c)
 
 
 Using Xray-Script you can experience a high speed network connection / Low ping / Full stable connection ...
